@@ -1,2 +1,5 @@
 los arreglos son un espacio de memoria que almacena multiples valores
 los arreglos son un conjunto de datos (podra ser cualquier tipo de datos)
+tamaño -> hace referencia ala cantidad de elementos 
+dentro del arreglo
+posicion -> hasce referencia ala cantidad de elementos -1
